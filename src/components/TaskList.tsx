@@ -15,7 +15,7 @@ export function TaskList({ name, itemList, moveBack, moveForward, className }: P
   return (
     <Box
       border={`1px solid ${grey[300]}`}
-      width="30%"
+      width="45%"
       height="60vh"
       overflow="auto"
       boxShadow={3}
